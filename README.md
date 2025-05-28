@@ -9,3 +9,4 @@ This is a simple tip calculator that asks for the bill amount and desired tip pe
 
    ```bash
    python3 main.py
+   ```
